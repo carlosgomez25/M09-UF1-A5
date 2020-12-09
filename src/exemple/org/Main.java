@@ -14,13 +14,19 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-//        Ejercicio1_1();
-//        Ejercicio1_2();
-//        Ejercicio1_3();
-//        ej1_4();
-//        ej1_5();
-//        ej1_6();
-//        ej2();
+        Ejercicio1_1();
+
+        Ejercicio1_2();
+
+        Ejercicio1_3();
+
+        Ejercicio1_4();
+
+        Ejercicio1_5();
+
+        Ejercicio1_6();
+
+        Ejercicio2();
     }
 
 
